@@ -1,0 +1,2 @@
+# birthday-wisher-bot
+A email sender bot done with Python and smtplib. The projects consists of a python bot that checks the current day with the assistance of the datetime time Python standard library. If the day happens to be the birthday of somebody in the pre-made list of birthday dates. The bot will pick the corresponding template letter and send it to that certain person email with the letter birthday wishing message letter.
