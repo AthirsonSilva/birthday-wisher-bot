@@ -3,8 +3,8 @@ import smtplib
 from random import randint
 from datetime import datetime
 
-MY_EMAIL = 'botpythonmain@gmail.com'
-MY_PASSWORD = 'python310'
+MY_EMAIL = 'myemail@gmail.com'
+MY_PASSWORD = 'mypassword'
 
 # HINT 1: Create a tuple from today's month and day using datetime. e.g.
 today_tuple = (datetime.now().month, datetime.now().day)
